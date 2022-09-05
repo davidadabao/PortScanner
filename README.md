@@ -3,13 +3,18 @@
  ### [YouTube Demonstration](https://#)
 
 <h2>Description</h2>
-This Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+ This Project covers a walkthrough on how to create a QR Code with Python with using Visual Studio Code. .
 <br />
+
+In this project, I will show how to make a port scanner in python (the easy way). This is a cybersecurity project for students and beginners in cybersecurity. This port scanner is very simple, basic and easy to understand for a newbie in cybersecurity.
+
+This port scanner tool is similar to how the popular widely NMAP tool works. So let's get started!
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b> 
+- <b>VS Code</b>
+- <b>Windows Command Prompt</b>
 
 <h2>Environments Used </h2>
 
@@ -18,21 +23,21 @@ This Project consists of a simple PowerShell script that walks the user through 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Importing Python Libraries: <br/>
+<img src="https://imgur.com/1OHJdZR.png" height="80%" width="80%" alt="Importing Python Libraries"/>
+<br />
+
+<p align="center">
+Installing : <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Port Scan Result: <br/>
+<img src="https://imgur.com/nI4hWto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 <br />
 
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>

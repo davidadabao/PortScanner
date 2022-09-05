@@ -24,8 +24,10 @@ This port scanner tool is similar to how the popular widely NMAP tool works. So 
 
 <p align="center">
 Importing Python Libraries: <br/>
+<br />
 <img src="https://imgur.com/1OHJdZR.png" height="80%" width="80%" alt="Importing Python Libraries"/>
 <br />
+
 
 <p align="center">
 Installing : <br/>

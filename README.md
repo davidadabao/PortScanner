@@ -3,8 +3,8 @@
  ### [YouTube Demonstration](https://youtu.be/z0470-sYNBI)
 
 <h2>Description</h2>
-In this project, I will show how to make a port scanner in python (the easy way). This is a cybersecurity project for students and beginners in cybersecurity. This port scanner is very simple, basic and easy to understand for a newbie in cybersecurity.
-
+In this project, I will show how to make a port scanner in python (the easy way). This is a cybersecurity project for students and beginners in cybersecurity. This port scanner is very simple, basic and easy to understand for a newbie in cybersecurity. <br>
+<br>
 This port scanner tool is similar to how the popular widely NMAP tool works. So let's get started!
 
 <h2>Languages and Utilities Used</h2>
@@ -21,19 +21,21 @@ This port scanner tool is similar to how the popular widely NMAP tool works. So 
 
 <p align="center">
 Importing Python Libraries: <br/>
-<br />
+<br>
 <img src="https://imgur.com/1OHJdZR.png" height="80%" width="80%" alt="Importing Python Libraries"/>
 <br />
 
 
 <p align="center">
-Installing : <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Complete Python Code: <br/>
+<br>
+<img src="https://imgur.com/h5wFNyp.png" height="80%" width="80%" alt="Complete Python Code"/>
 <br />
 
 <p align="center">
 Port Scan Result: <br/>
-<img src="https://imgur.com/nI4hWto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br>
+<img src="https://imgur.com/nI4hWto.png" height="80%" width="80%" alt="Port Scan Result"/>
 <br />
 
 <br />

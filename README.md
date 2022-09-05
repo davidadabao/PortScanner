@@ -3,9 +3,6 @@
  ### [YouTube Demonstration](https://#)
 
 <h2>Description</h2>
- This Project covers a walkthrough on how to create a QR Code with Python with using Visual Studio Code. .
-<br />
-
 In this project, I will show how to make a port scanner in python (the easy way). This is a cybersecurity project for students and beginners in cybersecurity. This port scanner is very simple, basic and easy to understand for a newbie in cybersecurity.
 
 This port scanner tool is similar to how the popular widely NMAP tool works. So let's get started!

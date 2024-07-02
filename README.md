@@ -1,6 +1,6 @@
 <h1>Port Scanner Project</h1>
 
- ### [Video Demonstration]
+ ### Video Demonstration
 
 https://github.com/davidadabao/PortScanner/assets/96911098/a1c0c985-c644-41ff-9308-4bfa8ebe7156
 
